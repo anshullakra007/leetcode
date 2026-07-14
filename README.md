@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/anshullakra007/leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/anshullakra007/leetcode/tree/master/0706-design-hashmap) |
 | [0912-sort-an-array](https://github.com/anshullakra007/leetcode/tree/master/0912-sort-an-array) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/anshullakra007/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -100,4 +101,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/anshullakra007/leetcode/tree/master/1291-sequential-digits) |
+## Math
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/anshullakra007/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/anshullakra007/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/anshullakra007/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
