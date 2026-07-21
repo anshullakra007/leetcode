@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/anshullakra007/leetcode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/anshullakra007/leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/anshullakra007/leetcode/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/anshullakra007/leetcode/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/anshullakra007/leetcode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/anshullakra007/leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/anshullakra007/leetcode/tree/master/0075-sort-colors) |
+| [0392-is-subsequence](https://github.com/anshullakra007/leetcode/tree/master/0392-is-subsequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anshullakra007/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
 |  |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anshullakra007/leetcode/tree/master/0042-trapping-rain-water) |
+| [0392-is-subsequence](https://github.com/anshullakra007/leetcode/tree/master/0392-is-subsequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/anshullakra007/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Number Theory
 |  |
