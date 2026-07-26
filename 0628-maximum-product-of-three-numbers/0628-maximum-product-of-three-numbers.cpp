@@ -5,7 +5,7 @@ public:
         int min1 = INT_MAX, min2 = INT_MAX;
         
         for (int num : nums) {
-            // Update 3 maximums
+            
             if (num > max1) {
                 max3 = max2;
                 max2 = max1;
@@ -17,7 +17,7 @@ public:
                 max3 = num;
             }
             
-            // Update 2 minimums
+            
             if (num < min1) {
                 min2 = min1;
                 min1 = num;
@@ -26,7 +26,7 @@ public:
             }
         }
         
-        return std::max(max1 * max2 * max3, min1 * min2 * max1);
+        return max(max1 * max2 * max3, min1 * min2 * max1);
     
         
     }
