@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/anshullakra007/leetcode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/anshullakra007/leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/anshullakra007/leetcode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/anshullakra007/leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/anshullakra007/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/anshullakra007/leetcode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/anshullakra007/leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anshullakra007/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/anshullakra007/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/anshullakra007/leetcode/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/anshullakra007/leetcode/tree/master/0912-sort-an-array) |
 ## Counting
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anshullakra007/leetcode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/anshullakra007/leetcode/tree/master/0053-maximum-subarray) |
 | [0392-is-subsequence](https://github.com/anshullakra007/leetcode/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/anshullakra007/leetcode/tree/master/0486-predict-the-winner) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/anshullakra007/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
