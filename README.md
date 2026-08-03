@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/anshullakra007/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0705-design-hashset](https://github.com/anshullakra007/leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/anshullakra007/leetcode/tree/master/0706-design-hashmap) |
+| [0877-stone-game](https://github.com/anshullakra007/leetcode/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/anshullakra007/leetcode/tree/master/0912-sort-an-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/anshullakra007/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/anshullakra007/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/anshullakra007/leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anshullakra007/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/anshullakra007/leetcode/tree/master/0877-stone-game) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/anshullakra007/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/anshullakra007/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anshullakra007/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/anshullakra007/leetcode/tree/master/0053-maximum-subarray) |
 | [0392-is-subsequence](https://github.com/anshullakra007/leetcode/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/anshullakra007/leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/anshullakra007/leetcode/tree/master/0877-stone-game) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/anshullakra007/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Number Theory
 |  |
@@ -171,4 +174,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/anshullakra007/leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/anshullakra007/leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
