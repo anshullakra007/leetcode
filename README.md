@@ -210,4 +210,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/anshullakra007/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/anshullakra007/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Backtracking
+|  |
+| ------- |
+| [0077-combinations](https://github.com/anshullakra007/leetcode/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
