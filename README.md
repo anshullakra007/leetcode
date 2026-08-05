@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/anshullakra007/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/anshullakra007/leetcode/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/anshullakra007/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/anshullakra007/leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/anshullakra007/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0486-predict-the-winner](https://github.com/anshullakra007/leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anshullakra007/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/anshullakra007/leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0912-sort-an-array](https://github.com/anshullakra007/leetcode/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
