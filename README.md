@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/anshullakra007/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/anshullakra007/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/anshullakra007/leetcode/tree/master/0242-valid-anagram) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/anshullakra007/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anshullakra007/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/anshullakra007/leetcode/tree/master/0912-sort-an-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/anshullakra007/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/anshullakra007/leetcode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/anshullakra007/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/anshullakra007/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/anshullakra007/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0486-predict-the-winner](https://github.com/anshullakra007/leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anshullakra007/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0705-design-hashset](https://github.com/anshullakra007/leetcode/tree/master/0705-design-hashset) |
@@ -205,5 +207,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/anshullakra007/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/anshullakra007/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 <!---LeetCode Topics End-->
