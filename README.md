@@ -232,7 +232,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 ## Why I built this ?
 
-**Situation:** FAANG interviews require an elite understanding of algorithmic problem solving, but raw code submissions without documentation lack context and teachability.
-**Task:** I set out to conquer a vast array of LeetCode challenges and document them with crystal-clear explanations of time and space complexity.
-**Action:** I solved hundreds of algorithmic problems covering advanced topics like Dynamic Programming, Union-Find, Topological Sorting, and Trie structures. For each solution, I explicitly mapped out the algorithm's state transitions and optimized away unnecessary memory allocations to beat standard execution times.
-**Result:** This repository serves as a highly organized algorithmic playbook, proving my ability to write highly optimized, bug-free logic under extreme computational constraints.
+### Situation
+FAANG interviews require an elite understanding of algorithmic problem solving, but raw code submissions without documentation lack context and teachability.
+
+### Task
+I set out to conquer a vast array of LeetCode challenges and document them with crystal-clear explanations of time and space complexity.
+
+### Action
+I solved hundreds of algorithmic problems covering advanced topics like Dynamic Programming, Union-Find, Topological Sorting, and Trie structures. For each solution, I explicitly mapped out the algorithm's state transitions and optimized away unnecessary memory allocations to beat standard execution times.
+
+### Result
+This repository serves as a highly organized algorithmic playbook, proving my ability to write highly optimized, bug-free logic under extreme computational constraints.
