@@ -1,238 +1,238 @@
-# l
-A ll f LC qu vw! - C u [LHub v2](://ub./ubw/LHub-2.0)
+# leetcode
+A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 
-<!---LC T S-->
-# LC T
-## H Tbl
-| |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Hash Table
+|  |
 | ------- |
-| [0001-w-u](://ub./ullk007/l///0001-w-u) |
-| [0049-u-](://ub./ullk007/l///0049-u-) |
-| [0169-y-l](://ub./ullk007/l///0169-y-l) |
-| [0219--ul-](://ub./ullk007/l///0219--ul-) |
-| [0242-vl-](://ub./ullk007/l///0242-vl-) |
-| [0347--k-fqu-l](://ub./ullk007/l///0347--k-fqu-l) |
-| [0705--](://ub./ullk007/l///0705--) |
-| [0706--](://ub./ullk007/l///0706--) |
-| [2965-f----vlu](://ub./ullk007/l///2965-f----vlu) |
-## S
-| |
+| [0001-two-sum](https://github.com/anshullakra007/leetcode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/anshullakra007/leetcode/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/anshullakra007/leetcode/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/anshullakra007/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/anshullakra007/leetcode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/anshullakra007/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0705-design-hashset](https://github.com/anshullakra007/leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/anshullakra007/leetcode/tree/master/0706-design-hashmap) |
+| [2965-find-missing-and-repeated-values](https://github.com/anshullakra007/leetcode/tree/master/2965-find-missing-and-repeated-values) |
+## String
+|  |
 | ------- |
-| [0014-l--f](://ub./ullk007/l///0014-l--f) |
-| [0049-u-](://ub./ullk007/l///0049-u-) |
-| [0242-vl-](://ub./ullk007/l///0242-vl-) |
-| [0392--ubqu](://ub./ullk007/l///0392--ubqu) |
-| [0516-l-l-ubqu](://ub./ullk007/l///0516-l-l-ubqu) |
-## S
-| |
+| [0014-longest-common-prefix](https://github.com/anshullakra007/leetcode/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/anshullakra007/leetcode/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/anshullakra007/leetcode/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/anshullakra007/leetcode/tree/master/0392-is-subsequence) |
+| [0516-longest-palindromic-subsequence](https://github.com/anshullakra007/leetcode/tree/master/0516-longest-palindromic-subsequence) |
+## Sorting
+|  |
 | ------- |
-| [0049-u-](://ub./ullk007/l///0049-u-) |
-| [0075--l](://ub./ullk007/l///0075--l) |
-| [0169-y-l](://ub./ullk007/l///0169-y-l) |
-| [0242-vl-](://ub./ullk007/l///0242-vl-) |
-| [0347--k-fqu-l](://ub./ullk007/l///0347--k-fqu-l) |
-| [0452-u-ub-f-w--bu-bll](://ub./ullk007/l///0452-u-ub-f-w--bu-bll) |
-| [0628-u-u-f--ub](://ub./ullk007/l///0628-u-u-f--ub) |
-| [0912---y](://ub./ullk007/l///0912---y) |
-| [1838-fquy-f---fqu-l](://ub./ullk007/l///1838-fquy-f---fqu-l) |
-| [3867-u-f--f-f-](://ub./ullk007/l///3867-u-f--f-f-) |
-## Ay
-| |
+| [0049-group-anagrams](https://github.com/anshullakra007/leetcode/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/anshullakra007/leetcode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/anshullakra007/leetcode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/anshullakra007/leetcode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/anshullakra007/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/anshullakra007/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0628-maximum-product-of-three-numbers](https://github.com/anshullakra007/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0912-sort-an-array](https://github.com/anshullakra007/leetcode/tree/master/0912-sort-an-array) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/anshullakra007/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/anshullakra007/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Array
+|  |
 | ------- |
-| [0001-w-u](://ub./ullk007/l///0001-w-u) |
-| [0004--f-w--y](://ub./ullk007/l///0004--f-w--y) |
-| [0014-l--f](://ub./ullk007/l///0014-l--f) |
-| [0026-v-ul-f--y](://ub./ullk007/l///0026-v-ul-f--y) |
-| [0027-v-l](://ub./ullk007/l///0027-v-l) |
-| [0042---w](://ub./ullk007/l///0042---w) |
-| [0049-u-](://ub./ullk007/l///0049-u-) |
-| [0053-u-uby](://ub./ullk007/l///0053-u-uby) |
-| [0075--l](://ub./ullk007/l///0075--l) |
-| [0169-y-l](://ub./ullk007/l///0169-y-l) |
-| [0219--ul-](://ub./ullk007/l///0219--ul-) |
-| [0228-uy-](://ub./ullk007/l///0228-uy-) |
-| [0238-u-f-y--lf](://ub./ullk007/l///0238-u-f-y--lf) |
-| [0347--k-fqu-l](://ub./ullk007/l///0347--k-fqu-l) |
-| [0373-f-k--w-ll-u](://ub./ullk007/l///0373-f-k--w-ll-u) |
-| [0452-u-ub-f-w--bu-bll](://ub./ullk007/l///0452-u-ub-f-w--bu-bll) |
-| [0486---w](://ub./ullk007/l///0486---w) |
-| [0628-u-u-f--ub](://ub./ullk007/l///0628-u-u-f--ub) |
-| [0705--](://ub./ullk007/l///0705--) |
-| [0706--](://ub./ullk007/l///0706--) |
-| [0877--](://ub./ullk007/l///0877--) |
-| [0912---y](://ub./ullk007/l///0912---y) |
-| [0918-u-u-ul-uby](://ub./ullk007/l///0918-u-u-ul-uby) |
-| [1838-fquy-f---fqu-l](://ub./ullk007/l///1838-fquy-f---fqu-l) |
-| [2965-f----vlu](://ub./ullk007/l///2965-f----vlu) |
-| [3336-f--ub-f-ubqu-w-qul-](://ub./ullk007/l///3336-f--ub-f-ubqu-w-qul-) |
-| [3513-ub-f-uqu--l-](://ub./ullk007/l///3513-ub-f-uqu--l-) |
-| [3867-u-f--f-f-](://ub./ullk007/l///3867-u-f--f-f-) |
-## f Su
-| |
+| [0001-two-sum](https://github.com/anshullakra007/leetcode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/anshullakra007/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/anshullakra007/leetcode/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/anshullakra007/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/anshullakra007/leetcode/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/anshullakra007/leetcode/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/anshullakra007/leetcode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/anshullakra007/leetcode/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/anshullakra007/leetcode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/anshullakra007/leetcode/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/anshullakra007/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0228-summary-ranges](https://github.com/anshullakra007/leetcode/tree/master/0228-summary-ranges) |
+| [0238-product-of-array-except-self](https://github.com/anshullakra007/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0347-top-k-frequent-elements](https://github.com/anshullakra007/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/anshullakra007/leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/anshullakra007/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0486-predict-the-winner](https://github.com/anshullakra007/leetcode/tree/master/0486-predict-the-winner) |
+| [0628-maximum-product-of-three-numbers](https://github.com/anshullakra007/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0705-design-hashset](https://github.com/anshullakra007/leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/anshullakra007/leetcode/tree/master/0706-design-hashmap) |
+| [0877-stone-game](https://github.com/anshullakra007/leetcode/tree/master/0877-stone-game) |
+| [0912-sort-an-array](https://github.com/anshullakra007/leetcode/tree/master/0912-sort-an-array) |
+| [0918-maximum-sum-circular-subarray](https://github.com/anshullakra007/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/anshullakra007/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2965-find-missing-and-repeated-values](https://github.com/anshullakra007/leetcode/tree/master/2965-find-missing-and-repeated-values) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/anshullakra007/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/anshullakra007/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/anshullakra007/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Prefix Sum
+|  |
 | ------- |
-| [0238-u-f-y--lf](://ub./ullk007/l///0238-u-f-y--lf) |
-| [1838-fquy-f---fqu-l](://ub./ullk007/l///1838-fquy-f---fqu-l) |
-## T
-| |
+| [0238-product-of-array-except-self](https://github.com/anshullakra007/leetcode/tree/master/0238-product-of-array-except-self) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/anshullakra007/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Trie
+|  |
 | ------- |
-| [0014-l--f](://ub./ullk007/l///0014-l--f) |
-## Tw 
-| |
+| [0014-longest-common-prefix](https://github.com/anshullakra007/leetcode/tree/master/0014-longest-common-prefix) |
+## Two Pointers
+|  |
 | ------- |
-| [0026-v-ul-f--y](://ub./ullk007/l///0026-v-ul-f--y) |
-| [0027-v-l](://ub./ullk007/l///0027-v-l) |
-| [0042---w](://ub./ullk007/l///0042---w) |
-| [0075--l](://ub./ullk007/l///0075--l) |
-| [0392--ubqu](://ub./ullk007/l///0392--ubqu) |
-| [3867-u-f--f-f-](://ub./ullk007/l///3867-u-f--f-f-) |
-## Dv Cqu
-| |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/anshullakra007/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/anshullakra007/leetcode/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/anshullakra007/leetcode/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/anshullakra007/leetcode/tree/master/0075-sort-colors) |
+| [0392-is-subsequence](https://github.com/anshullakra007/leetcode/tree/master/0392-is-subsequence) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/anshullakra007/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Divide and Conquer
+|  |
 | ------- |
-| [0004--f-w--y](://ub./ullk007/l///0004--f-w--y) |
-| [0053-u-uby](://ub./ullk007/l///0053-u-uby) |
-| [0169-y-l](://ub./ullk007/l///0169-y-l) |
-| [0347--k-fqu-l](://ub./ullk007/l///0347--k-fqu-l) |
-| [0912---y](://ub./ullk007/l///0912---y) |
-| [0918-u-u-ul-uby](://ub./ullk007/l///0918-u-u-ul-uby) |
-## Cu
-| |
+| [0004-median-of-two-sorted-arrays](https://github.com/anshullakra007/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/anshullakra007/leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/anshullakra007/leetcode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/anshullakra007/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/anshullakra007/leetcode/tree/master/0912-sort-an-array) |
+| [0918-maximum-sum-circular-subarray](https://github.com/anshullakra007/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+## Counting
+|  |
 | ------- |
-| [0169-y-l](://ub./ullk007/l///0169-y-l) |
-| [0347--k-fqu-l](://ub./ullk007/l///0347--k-fqu-l) |
-## Lk L
-| |
+| [0169-majority-element](https://github.com/anshullakra007/leetcode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/anshullakra007/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Linked List
+|  |
 | ------- |
-| [0705--](://ub./ullk007/l///0705--) |
-| [0706--](://ub./ullk007/l///0706--) |
-## D
-| |
+| [0705-design-hashset](https://github.com/anshullakra007/leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/anshullakra007/leetcode/tree/master/0706-design-hashmap) |
+## Design
+|  |
 | ------- |
-| [0705--](://ub./ullk007/l///0705--) |
-| [0706--](://ub./ullk007/l///0706--) |
-## H Fu
-| |
+| [0705-design-hashset](https://github.com/anshullakra007/leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/anshullakra007/leetcode/tree/master/0706-design-hashmap) |
+## Hash Function
+|  |
 | ------- |
-| [0705--](://ub./ullk007/l///0705--) |
-| [0706--](://ub./ullk007/l///0706--) |
-## H (y Quu)
-| |
+| [0705-design-hashset](https://github.com/anshullakra007/leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/anshullakra007/leetcode/tree/master/0706-design-hashmap) |
+## Heap (Priority Queue)
+|  |
 | ------- |
-| [0347--k-fqu-l](://ub./ullk007/l///0347--k-fqu-l) |
-| [0373-f-k--w-ll-u](://ub./ullk007/l///0373-f-k--w-ll-u) |
-| [0912---y](://ub./ullk007/l///0912---y) |
-## M S
-| |
+| [0347-top-k-frequent-elements](https://github.com/anshullakra007/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/anshullakra007/leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0912-sort-an-array](https://github.com/anshullakra007/leetcode/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
 | ------- |
-| [0912---y](://ub./ullk007/l///0912---y) |
-## Buk S
-| |
+| [0912-sort-an-array](https://github.com/anshullakra007/leetcode/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
 | ------- |
-| [0347--k-fqu-l](://ub./ullk007/l///0347--k-fqu-l) |
-| [0912---y](://ub./ullk007/l///0912---y) |
-## R S
-| |
+| [0347-top-k-frequent-elements](https://github.com/anshullakra007/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/anshullakra007/leetcode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
 | ------- |
-| [0912---y](://ub./ullk007/l///0912---y) |
-## Cu S
-| |
+| [0912-sort-an-array](https://github.com/anshullakra007/leetcode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
 | ------- |
-| [0912---y](://ub./ullk007/l///0912---y) |
-## u
-| |
+| [0912-sort-an-array](https://github.com/anshullakra007/leetcode/tree/master/0912-sort-an-array) |
+## Enumeration
+|  |
 | ------- |
-| [1291-qul-](://ub./ullk007/l///1291-qul-) |
-## M
-| |
+| [1291-sequential-digits](https://github.com/anshullakra007/leetcode/tree/master/1291-sequential-digits) |
+## Math
+|  |
 | ------- |
-| [0486---w](://ub./ullk007/l///0486---w) |
-| [0628-u-u-f--ub](://ub./ullk007/l///0628-u-u-f--ub) |
-| [0877--](://ub./ullk007/l///0877--) |
-| [2965-f----vlu](://ub./ullk007/l///2965-f----vlu) |
-| [3336-f--ub-f-ubqu-w-qul-](://ub./ullk007/l///3336-f--ub-f-ubqu-w-qul-) |
-| [3513-ub-f-uqu--l-](://ub./ullk007/l///3513-ub-f-uqu--l-) |
-| [3867-u-f--f-f-](://ub./ullk007/l///3867-u-f--f-f-) |
-## Dy 
-| |
+| [0486-predict-the-winner](https://github.com/anshullakra007/leetcode/tree/master/0486-predict-the-winner) |
+| [0628-maximum-product-of-three-numbers](https://github.com/anshullakra007/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/anshullakra007/leetcode/tree/master/0877-stone-game) |
+| [2965-find-missing-and-repeated-values](https://github.com/anshullakra007/leetcode/tree/master/2965-find-missing-and-repeated-values) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/anshullakra007/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/anshullakra007/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/anshullakra007/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Dynamic Programming
+|  |
 | ------- |
-| [0042---w](://ub./ullk007/l///0042---w) |
-| [0053-u-uby](://ub./ullk007/l///0053-u-uby) |
-| [0392--ubqu](://ub./ullk007/l///0392--ubqu) |
-| [0486---w](://ub./ullk007/l///0486---w) |
-| [0516-l-l-ubqu](://ub./ullk007/l///0516-l-l-ubqu) |
-| [0877--](://ub./ullk007/l///0877--) |
-| [0918-u-u-ul-uby](://ub./ullk007/l///0918-u-u-ul-uby) |
-| [3336-f--ub-f-ubqu-w-qul-](://ub./ullk007/l///3336-f--ub-f-ubqu-w-qul-) |
-## Nub Ty
-| |
+| [0042-trapping-rain-water](https://github.com/anshullakra007/leetcode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/anshullakra007/leetcode/tree/master/0053-maximum-subarray) |
+| [0392-is-subsequence](https://github.com/anshullakra007/leetcode/tree/master/0392-is-subsequence) |
+| [0486-predict-the-winner](https://github.com/anshullakra007/leetcode/tree/master/0486-predict-the-winner) |
+| [0516-longest-palindromic-subsequence](https://github.com/anshullakra007/leetcode/tree/master/0516-longest-palindromic-subsequence) |
+| [0877-stone-game](https://github.com/anshullakra007/leetcode/tree/master/0877-stone-game) |
+| [0918-maximum-sum-circular-subarray](https://github.com/anshullakra007/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/anshullakra007/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+## Number Theory
+|  |
 | ------- |
-| [3336-f--ub-f-ubqu-w-qul-](://ub./ullk007/l///3336-f--ub-f-ubqu-w-qul-) |
-| [3867-u-f--f-f-](://ub./ullk007/l///3867-u-f--f-f-) |
-## By S
-| |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/anshullakra007/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/anshullakra007/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Binary Search
+|  |
 | ------- |
-| [0004--f-w--y](://ub./ullk007/l///0004--f-w--y) |
-| [1838-fquy-f---fqu-l](://ub./ullk007/l///1838-fquy-f---fqu-l) |
-## Sul
-| |
+| [0004-median-of-two-sorted-arrays](https://github.com/anshullakra007/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/anshullakra007/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Simulation
+|  |
 | ------- |
-| [3867-u-f--f-f-](://ub./ullk007/l///3867-u-f--f-f-) |
-## Sk
-| |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/anshullakra007/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Stack
+|  |
 | ------- |
-| [0042---w](://ub./ullk007/l///0042---w) |
-## M Sk
-| |
+| [0042-trapping-rain-water](https://github.com/anshullakra007/leetcode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
 | ------- |
-| [0042---w](://ub./ullk007/l///0042---w) |
-## Sl Ww
-| |
+| [0042-trapping-rain-water](https://github.com/anshullakra007/leetcode/tree/master/0042-trapping-rain-water) |
+## Sliding Window
+|  |
 | ------- |
-| [0219--ul-](://ub./ullk007/l///0219--ul-) |
-| [1838-fquy-f---fqu-l](://ub./ullk007/l///1838-fquy-f---fqu-l) |
-## B Mul
-| |
+| [0219-contains-duplicate-ii](https://github.com/anshullakra007/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/anshullakra007/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Bit Manipulation
+|  |
 | ------- |
-| [3513-ub-f-uqu--l-](://ub./ullk007/l///3513-ub-f-uqu--l-) |
-## Ru
-| |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/anshullakra007/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
+## Recursion
+|  |
 | ------- |
-| [0486---w](://ub./ullk007/l///0486---w) |
-## G Ty
-| |
+| [0486-predict-the-winner](https://github.com/anshullakra007/leetcode/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
 | ------- |
-| [0486---w](://ub./ullk007/l///0486---w) |
-| [0877--](://ub./ullk007/l///0877--) |
-## Quu
-| |
+| [0486-predict-the-winner](https://github.com/anshullakra007/leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/anshullakra007/leetcode/tree/master/0877-stone-game) |
+## Queue
+|  |
 | ------- |
-| [0918-u-u-ul-uby](://ub./ullk007/l///0918-u-u-ul-uby) |
-## M Quu
-| |
+| [0918-maximum-sum-circular-subarray](https://github.com/anshullakra007/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
 | ------- |
-| [0918-u-u-ul-uby](://ub./ullk007/l///0918-u-u-ul-uby) |
-## M
-| |
+| [0918-maximum-sum-circular-subarray](https://github.com/anshullakra007/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+## Matrix
+|  |
 | ------- |
-| [2965-f----vlu](://ub./ullk007/l///2965-f----vlu) |
-## Gy
-| |
+| [2965-find-missing-and-repeated-values](https://github.com/anshullakra007/leetcode/tree/master/2965-find-missing-and-repeated-values) |
+## Greedy
+|  |
 | ------- |
-| [0452-u-ub-f-w--bu-bll](://ub./ullk007/l///0452-u-ub-f-w--bu-bll) |
-| [1838-fquy-f---fqu-l](://ub./ullk007/l///1838-fquy-f---fqu-l) |
-## Bkk
-| |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/anshullakra007/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/anshullakra007/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Backtracking
+|  |
 | ------- |
-| [0077-b](://ub./ullk007/l///0077-b) |
-## Qukl
-| |
+| [0077-combinations](https://github.com/anshullakra007/leetcode/tree/master/0077-combinations) |
+## Quickselect
+|  |
 | ------- |
-| [0347--k-fqu-l](://ub./ullk007/l///0347--k-fqu-l) |
-<!---LC T -->
+| [0347-top-k-frequent-elements](https://github.com/anshullakra007/leetcode/tree/master/0347-top-k-frequent-elements) |
+<!---LeetCode Topics End-->
 ---
 
-## Wy I bul ?
+## Why I built this ?
 
-**Su:** FAANG vw qu l u f l bl lv, bu w ub wu u lk bly.
-**Tk:** I u qu v y f LC ll u w yl-l l f ly.
-**A:** I lv u f l bl v v lk Dy , U-F, Tll S, T uu. F lu, I lly u l' z wy uy y ll b u .
-**Rul:** T y v ly z l lybk, v y bly w ly z, bu-f l u ul .
+**Situation:** FAANG interviews require an elite understanding of algorithmic problem solving, but raw code submissions without documentation lack context and teachability.
+**Task:** I set out to conquer a vast array of LeetCode challenges and document them with crystal-clear explanations of time and space complexity.
+**Action:** I solved hundreds of algorithmic problems covering advanced topics like Dynamic Programming, Union-Find, Topological Sorting, and Trie structures. For each solution, I explicitly mapped out the algorithm's state transitions and optimized away unnecessary memory allocations to beat standard execution times.
+**Result:** This repository serves as a highly organized algorithmic playbook, proving my ability to write highly optimized, bug-free logic under extreme computational constraints.
