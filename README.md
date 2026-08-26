@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/anshullakra007/leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/anshullakra007/leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/anshullakra007/leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/anshullakra007/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/anshullakra007/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/anshullakra007/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/anshullakra007/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/anshullakra007/leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/anshullakra007/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/anshullakra007/leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/anshullakra007/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/anshullakra007/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/anshullakra007/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/anshullakra007/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/anshullakra007/leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/anshullakra007/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/anshullakra007/leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/anshullakra007/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/anshullakra007/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/anshullakra007/leetcode/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/anshullakra007/leetcode/tree/master/0238-product-of-array-except-self) |
