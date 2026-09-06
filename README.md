@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/anshullakra007/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/anshullakra007/leetcode/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/anshullakra007/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/anshullakra007/leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/anshullakra007/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/anshullakra007/leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/anshullakra007/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/anshullakra007/leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/anshullakra007/leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/anshullakra007/leetcode/tree/master/0075-sort-colors) |
+| [0283-move-zeroes](https://github.com/anshullakra007/leetcode/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/anshullakra007/leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/anshullakra007/leetcode/tree/master/0443-string-compression) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anshullakra007/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
