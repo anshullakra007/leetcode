@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/anshullakra007/leetcode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/anshullakra007/leetcode/tree/master/0049-group-anagrams) |
 | [0115-distinct-subsequences](https://github.com/anshullakra007/leetcode/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/anshullakra007/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/anshullakra007/leetcode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/anshullakra007/leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/anshullakra007/leetcode/tree/master/0443-string-compression) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/anshullakra007/leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/anshullakra007/leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/anshullakra007/leetcode/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/anshullakra007/leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/anshullakra007/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/anshullakra007/leetcode/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/anshullakra007/leetcode/tree/master/0392-is-subsequence) |
