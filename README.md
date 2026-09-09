@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/anshullakra007/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0705-design-hashset](https://github.com/anshullakra007/leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/anshullakra007/leetcode/tree/master/0706-design-hashmap) |
+| [0860-lemonade-change](https://github.com/anshullakra007/leetcode/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/anshullakra007/leetcode/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/anshullakra007/leetcode/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/anshullakra007/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/anshullakra007/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0860-lemonade-change](https://github.com/anshullakra007/leetcode/tree/master/0860-lemonade-change) |
 | [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/anshullakra007/leetcode/tree/master/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/anshullakra007/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/anshullakra007/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
