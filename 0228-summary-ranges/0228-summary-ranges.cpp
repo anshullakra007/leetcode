@@ -1,33 +1,25 @@
-#include <vector>
-#include <string>
-#include <iostream>
-
 class Solution {
 public:
-    std::vector<std::string> summaryRanges(std::vector<int>& nums) {
-        std::vector<std::string> result;
-        if (nums.empty()) {
-            return result;
-        }
-
-        for (int i = 0; i < nums.size();) {
+    vector<string> summaryRanges(vector<int>& nums) {
+        vector<string> result;
+        int n = nums.size();
+        
+        for (int i = 0; i < n; i++) {
             int start = nums[i];
-            int j = i;
-            // Expand the range as long as elements are consecutive
-            while (j + 1 < nums.size() && nums[j + 1] == nums[j] + 1) {
-                j++;
-            }
-
-            // Format the range string
-            if (nums[j] == start) {
-                result.push_back(std::to_string(start));
-            } else {
-                result.push_back(std::to_string(start) + "->" + std::to_string(nums[j]));
+            
+            // Jab tak consecutive elements hain, aage badho
+            while (i + 1 < n && nums[i + 1] == nums[i] + 1) {
+                i++;
             }
             
-            // Move to the next potential start of a range
-            i = j + 1;
+            // Agar start aur end different hain toh "a->b", warna sirf "a"
+            if (start != nums[i]) {
+                result.push_back(to_string(start) + "->" + to_string(nums[i]));
+            } else {
+                result.push_back(to_string(start));
+            }
         }
+        
         return result;
     }
 };
