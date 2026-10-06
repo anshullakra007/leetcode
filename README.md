@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/anshullakra007/leetcode/tree/master/0443-string-compression) |
 | [0516-longest-palindromic-subsequence](https://github.com/anshullakra007/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0520-detect-capital](https://github.com/anshullakra007/leetcode/tree/master/0520-detect-capital) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/anshullakra007/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/anshullakra007/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sorting
 |  |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anshullakra007/leetcode/tree/master/0042-trapping-rain-water) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/anshullakra007/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/anshullakra007/leetcode/tree/master/0011-container-with-most-water) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/anshullakra007/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0860-lemonade-change](https://github.com/anshullakra007/leetcode/tree/master/0860-lemonade-change) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/anshullakra007/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/anshullakra007/leetcode/tree/master/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/anshullakra007/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/anshullakra007/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -296,5 +299,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/anshullakra007/leetcode/tree/master/0169-majority-element) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/anshullakra007/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
 ---
