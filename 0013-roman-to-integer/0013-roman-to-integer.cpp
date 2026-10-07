@@ -1,31 +1,29 @@
+#include <string>
+
 class Solution {
-private:
-    int getValue(char c) {
-        switch (c) {
-            case 'I': return 1;
-            case 'V': return 5;
-            case 'X': return 10;
-            case 'L': return 50;
-            case 'C': return 100;
-            case 'D': return 500;
-            case 'M': return 1000;
-            default:  return 0;
-        }
-    }
-
 public:
-    int romanToInt(string s) {
+    int romanToInt(std::string s) {
         int total = 0;
-        int max_val = 0;
+        int i = 0;
+        int n = s.length();
 
-        for (int i = s.length() - 1; i >= 0; --i) {
-            int current = getValue(s[i]);
-            if (current >= max_val) {
-                total += current;
-                max_val = current;
-            } else {
-                total -= current;
-            }
+        while (i < n) {
+            // First check if the next two letters make a special combo:
+            if (i + 1 < n && s[i] == 'C' && s[i + 1] == 'M') { total += 900; i += 2; }
+            else if (i + 1 < n && s[i] == 'C' && s[i + 1] == 'D') { total += 400; i += 2; }
+            else if (i + 1 < n && s[i] == 'X' && s[i + 1] == 'C') { total += 90;  i += 2; }
+            else if (i + 1 < n && s[i] == 'X' && s[i + 1] == 'L') { total += 40;  i += 2; }
+            else if (i + 1 < n && s[i] == 'I' && s[i + 1] == 'X') { total += 9;   i += 2; }
+            else if (i + 1 < n && s[i] == 'I' && s[i + 1] == 'V') { total += 4;   i += 2; }
+            
+            // Otherwise, it's just a normal single letter:
+            else if (s[i] == 'M') { total += 1000; i += 1; }
+            else if (s[i] == 'D') { total += 500;  i += 1; }
+            else if (s[i] == 'C') { total += 100;  i += 1; }
+            else if (s[i] == 'L') { total += 50;   i += 1; }
+            else if (s[i] == 'X') { total += 10;   i += 1; }
+            else if (s[i] == 'V') { total += 5;    i += 1; }
+            else if (s[i] == 'I') { total += 1;    i += 1; }
         }
 
         return total;
