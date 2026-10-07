@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anshullakra007/leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/anshullakra007/leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/anshullakra007/leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/anshullakra007/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/anshullakra007/leetcode/tree/master/0217-contains-duplicate) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/anshullakra007/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/anshullakra007/leetcode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/anshullakra007/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/anshullakra007/leetcode/tree/master/0058-length-of-last-word) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/anshullakra007/leetcode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/anshullakra007/leetcode/tree/master/0189-rotate-array) |
 | [0486-predict-the-winner](https://github.com/anshullakra007/leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anshullakra007/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
