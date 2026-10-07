@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/anshullakra007/leetcode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/anshullakra007/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/anshullakra007/leetcode/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/anshullakra007/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0392-is-subsequence](https://github.com/anshullakra007/leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/anshullakra007/leetcode/tree/master/0443-string-compression) |
 | [0516-longest-palindromic-subsequence](https://github.com/anshullakra007/leetcode/tree/master/0516-longest-palindromic-subsequence) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0077-combinations](https://github.com/anshullakra007/leetcode/tree/master/0077-combinations) |
+| [0301-remove-invalid-parentheses](https://github.com/anshullakra007/leetcode/tree/master/0301-remove-invalid-parentheses) |
 ## Quickselect
 |  |
 | ------- |
@@ -306,5 +308,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/anshullakra007/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/anshullakra007/leetcode/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
 ---
