@@ -1,16 +1,16 @@
 class Solution {
 public:
     bool isSubsequence(string s, string t) {
-        int l=0;int hi=0;
-        while(l<s.length()&&hi<t.length()){
-            if(s[l]==t[hi]){
-                l++;hi++;
-
-            }
-            else{hi++;}
-
-        }
-        return l==s.length();
+        int i = 0, j = 0;
         
+        while (i < s.length() && j < t.length()) {
+            if (s[i] == t[j]) {
+                i++; // Only advance s pointer when a match is found
+            }
+            j++;     // Always advance t pointer
+        }
+        
+        // If i reached the end of s, all characters were matched in order
+        return i == s.length();
     }
 };
