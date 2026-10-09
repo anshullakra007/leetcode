@@ -307,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1251-average-selling-price](https://github.com/anshullakra007/leetcode/tree/master/1251-average-selling-price) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/anshullakra007/leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/anshullakra007/leetcode/tree/master/1633-percentage-of-users-attended-a-contest) |
+| [1729-find-followers-count](https://github.com/anshullakra007/leetcode/tree/master/1729-find-followers-count) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
